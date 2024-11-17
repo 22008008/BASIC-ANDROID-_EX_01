@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
-### DEVELOPED BY : Rexlin R
-### REGISTER NO: 212222220034
+### DEVELOPED BY : SRI RANJANI PRIYA P
+### REGISTER NO: 212222220049
 
 ### MainActivity.java:
 ```
